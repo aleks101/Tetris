@@ -1,3 +1,6 @@
+# About
+This is a classic tetris game, to start the game press escape!
+
 # Requirements
 ## Git
 Git download https://git-scm.com/downloads/win
@@ -9,7 +12,7 @@ CMake download https://cmake.org/download/
 Make sure to have a compiler installed on your computer https://www.mingw-w64.org/downloads/
 
 # Building/compiling the project
-If you have installed and build all the dependencies, you can now build the game. Run cmake script from the build folder and then make to compile the program, after compiling the .exe file will be generated inside build/bin folder
+If you have installed and build all the dependencies, you can now build the game. Run cmake script from the build folder and then make to compile the program, after compiling the .exe file will be generated inside build/source folder. In order for you to run the .exe file you will have to copy the SDL dlls which are located inside Build/_deps/SDL_build folders
 
 cmake generators https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html
 
