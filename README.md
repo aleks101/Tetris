@@ -24,5 +24,3 @@ cd build
 cmake .. -G "set your generator"
 make
 ```
-
-The library file will be generated inside Build/Source
